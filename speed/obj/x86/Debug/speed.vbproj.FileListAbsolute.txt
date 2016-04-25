@@ -1,0 +1,24 @@
+C:\Users\benzza\AppData\Local\Temporary Projects\speed\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\benzza\AppData\Local\Temporary Projects\speed\obj\x86\Debug\speed.Form1.resources
+C:\Users\benzza\AppData\Local\Temporary Projects\speed\obj\x86\Debug\speed.Resources.resources
+C:\Users\benzza\AppData\Local\Temporary Projects\speed\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\benzza\AppData\Local\Temporary Projects\speed\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\benzza\AppData\Local\Temporary Projects\speed\bin\Debug\speed.exe
+C:\Users\benzza\AppData\Local\Temporary Projects\speed\bin\Debug\speed.pdb
+C:\Users\benzza\AppData\Local\Temporary Projects\speed\bin\Debug\speed.xml
+C:\Users\benzza\AppData\Local\Temporary Projects\speed\obj\x86\Debug\speed.Form2.resources
+C:\Users\benzza\AppData\Local\Temporary Projects\speed\obj\x86\Debug\speed.exe
+C:\Users\benzza\AppData\Local\Temporary Projects\speed\obj\x86\Debug\speed.xml
+C:\Users\benzza\AppData\Local\Temporary Projects\speed\obj\x86\Debug\speed.pdb
+C:\Users\benzza\documents\visual studio 2010\Projects\speed\speed\obj\x86\Debug\speed.exe
+C:\Users\benzza\documents\visual studio 2010\Projects\speed\speed\obj\x86\Debug\speed.xml
+C:\Users\benzza\documents\visual studio 2010\Projects\speed\speed\obj\x86\Debug\speed.pdb
+C:\Users\benzza\documents\visual studio 2010\Projects\speed\speed\bin\Debug\speed.exe
+C:\Users\benzza\documents\visual studio 2010\Projects\speed\speed\bin\Debug\speed.pdb
+C:\Users\benzza\documents\visual studio 2010\Projects\speed\speed\bin\Debug\speed.xml
+C:\Users\benzza\documents\visual studio 2010\Projects\speed\speed\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\benzza\documents\visual studio 2010\Projects\speed\speed\obj\x86\Debug\speed.Form1.resources
+C:\Users\benzza\documents\visual studio 2010\Projects\speed\speed\obj\x86\Debug\speed.Form2.resources
+C:\Users\benzza\documents\visual studio 2010\Projects\speed\speed\obj\x86\Debug\speed.Resources.resources
+C:\Users\benzza\documents\visual studio 2010\Projects\speed\speed\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\benzza\documents\visual studio 2010\Projects\speed\speed\obj\x86\Debug\GenerateResource.write.1.tlog
